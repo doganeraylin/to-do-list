@@ -1,0 +1,30 @@
+* {
+    border: 1px solid blueviolet;
+}
+
+.completed {
+
+text-decoration: line-through;
+}
+
+.idk {
+    height: 10rem;
+    width: 10rem;
+    background-color: gold;
+}
+
+.new-div {
+
+    width: 10rem;
+    height: 10rem;
+    background-color: pink;
+    margin: 1rem;
+}
+
+.blue {
+
+    width: 10rem;
+    height: 10rem;
+
+    background-color: blue;
+}
